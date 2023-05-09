@@ -1,0 +1,9 @@
+{
+  "name": "tf-puzzleschess",
+  "version": "1.0.0",
+  "description": "aplication Application that recognizes chess pieces to determine their location and return a FEN position",
+  "main": "index.js",
+  "repository": "https://github.com/damanosalvag/tf-puzzlesChess.git",
+  "author": "Dairo Manosalva <damanosalvag@gmail.com>",
+  "license": "MIT"
+}
